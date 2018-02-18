@@ -6,7 +6,7 @@ package com.example.laowai.xxcc;
 
 
 public class MainActivity extends AppCompatActivity {
-String it_works = "jjjjjjj";
+String it_works = "dfdfdf";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
